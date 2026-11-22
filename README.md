@@ -13,8 +13,7 @@ ISIC 2593 covers the shop that forges, grinds, heat-treats and
 finishes stock into cutlery (knives, forks, spoons), hand tools
 (hammers, wrenches, screwdrivers, pliers) and general hardware (locks,
 hinges, fasteners, garden tools). This is distinct from
-`cloud-itonami-isic-2591` (Forging, pressing, stamping and roll-
-forming of metal), the primary heavy metal-forming process upstream of
+`cloud-itonami-isic-2591` (ISIC 2591), the primary heavy metal-forming process upstream of
 this shop's own forging line; from `cloud-itonami-isic-2592`
 (Treatment and coating of metals), a distinct surface-finishing
 process; and from `cloud-itonami-isic-2599` (Manufacture of other

@@ -52,8 +52,7 @@ products and metal household goods.
 `cloud-itonami-isic-2593` is also distinct from three sibling classes
 in the same ISIC 259 group, none of which are `:implemented` in this
 fleet yet as of this build (`kotoba-lang/industry` registry,
-`:maturity :spec`): `cloud-itonami-isic-2591` (Forging, pressing,
-stamping and roll-forming of metal -- the primary heavy metal-forming
+`:maturity :spec`): `cloud-itonami-isic-2591` (ISIC 2591 -- the primary heavy metal-forming
 process upstream of this shop's own forging line), `cloud-itonami-
 isic-2592` (Treatment and coating of metals -- a distinct surface-
 finishing process). ISIC 2593 is the specific "cutlery, hand tools and
